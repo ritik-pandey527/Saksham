@@ -82,7 +82,9 @@ These modules aim to reduce caregiver dependency, improve mobility, and ensure s
 ✅ Gaze-based interaction system  
 ✅ AI-powered fall detection  
 ✅ Real-time alerts and analysis  
-✅ Affordable and scalable design  
+✅ Affordable and scalable design 
+
+---
 
 ## 🛠 Hardware Requirements
 
@@ -92,12 +94,16 @@ These modules aim to reduce caregiver dependency, improve mobility, and ensure s
 | Eye\_Control    | USB camera, PC (Python environment)        |
 | Fall\_Device    | ESP32, MPU6050, buzzer                     |
 
+---
+
 ## 📊 Data & Analysis
 
 Open the analysis.ipynb file to:
 - Analyze IMU sensor data
 - Simulate fall detection
 - Visualize event classification
+
+---
 
 ## 🤝 Contributing
 
@@ -109,6 +115,8 @@ Contributions are welcome!
 4. Push to the branch  
 5. Open a Pull Request
 
+---
+
 ## 👤 Author
 
 Ritik Pandey  
@@ -116,6 +124,8 @@ Electronics Engineer | Embedded & AI Developer
 GitHub: @ritik-pandey527  
 LinkedIn: https://linkedin.com/in/ritik33  
 Twitter: @ritik_33  
+
+---
 
 ## ⚖️ License
 

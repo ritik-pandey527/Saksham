@@ -122,8 +122,7 @@ Contributions are welcome!
 Ritik Pandey  
 Electronics Engineer | Embedded & AI Developer  
 GitHub: @ritik-pandey527  
-LinkedIn: https://linkedin.com/in/ritik33  
-Twitter: @ritik_33  
+LinkedIn: https://linkedin.com/in/ritik33  ](https://www.linkedin.com/in/ritik-pandey-2546b81bb/
 
 ---
 
